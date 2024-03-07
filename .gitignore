@@ -4,6 +4,7 @@ build
 # IDE
 .vs
 .vscode
+CMakeSettings.json
 
 # OS
 .DS_Store
