@@ -5,7 +5,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 project(pong)
 
-set(SRC "main.cpp")
+set(SRC "src/main.cpp")
 
 add_executable(${PROJECT_NAME} ${SRC})
 
