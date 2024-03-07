@@ -1,0 +1,3 @@
+[submodule "vendor/endeavor"]
+	path = vendor/endeavor
+	url = https://github.com/lukeburton00/endeavor
